@@ -78,7 +78,7 @@ public class Absolute extends Applet implements Runnable
 
   public String getAppletInfo()
   {
-    return("Absolute Space - by Aleksey Udovydchenko");
+    return("Absolute Space - by nicks707");
   }
 
   public void init()
